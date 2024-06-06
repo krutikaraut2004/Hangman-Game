@@ -1,2 +1,2 @@
 # Hangman-Game
-Hangman! HTML builds the frame, CSS styles the look, JS brings it alive. Guess letters, reveal the word, avoid the gallows. Classic game, modern web tech, engaging fun!
+The Hangman game uses HTML to set up the structure, CSS for the visual styling, and JavaScript to handle the game logic - selecting a random word, tracking guesses, and determining the winner. Players guess letters, and incorrect guesses are represented by a growing hangman drawing, while correct letters are dynamically displayed. This classic word game combines basic web technologies to create an interactive experience for the user.
